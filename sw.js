@@ -1,3 +1,4 @@
+
 const CACHE_NAME = 'financas-v1';
 const urlsToCache = ['/MeuAppdeFinancas/', '/MeuAppdeFinancas/index.html', '/MeuAppdeFinancas/manifest.json'];
 
